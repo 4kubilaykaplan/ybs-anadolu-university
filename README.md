@@ -1,3 +1,9 @@
-# This repository contains e-books for all the lessons i took between 2018-2022 in Anadolu University - Management Information Systems department.
+# Anadolu University | Management Information Systems
 
-# Bu repoda, 2018-2022 yılları arasında Anadolu Üniversitesi - Yönetim Bilişim Sistemleri bölümünde aldığım derslere ait e-kitaplar bulunmaktadır.
+This repo includes e-books for all the courses taken by me between 2018-2022.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+# Anadolu Üniversitesi | Yönetim Bilişim Sistemleri 
+
+Bu repoda, 2018-2022 yılları arasında aldığım tüm derslere ait e-kitaplar bulunmaktadır.
